@@ -1,4 +1,4 @@
-(empathy map goes here)
+(inbound customer empathy map goes here)
 
 # Assumptions 
 
