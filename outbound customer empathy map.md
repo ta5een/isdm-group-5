@@ -1,10 +1,6 @@
 (outbound customer empathy map goes here)
 
-# Assumptions 
-
-Outbound Clients may not know about the company (Cold Leads) 
-
-First calls would be to profile, then transfer to someone with specialized knowledge 
+# POV Statements  
 
 # User’s Perspective 
 
