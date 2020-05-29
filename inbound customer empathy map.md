@@ -1,10 +1,6 @@
 (inbound customer empathy map goes here)
 
-# Assumptions 
-
-Customers calling in will want help with planning their holiday  
-
-Customers want someone with knowledge with where they want to go for their holiday 
+# POV Statements
 
 # User’s Perspective 
 
