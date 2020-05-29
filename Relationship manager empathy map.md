@@ -1,14 +1,6 @@
 (relationship manager empathy map goes here)
 
-# Assumptions 
-
-Current system is inefficient.  
-
-Clientele is inaccurately assigned. 
-
-RMs are unsure about the change/ if it will be beneficial 
-
-Concerns about sales and profiles needing to be re-evaluated/start from the beginning 
+# POV Statements
 
 # User’s Perspective 
 
