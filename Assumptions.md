@@ -1,7 +1,7 @@
 ## Assumptions
 
 Based on the project description, the following assumptions have been made to
-assist in analyizing and providing a potential solution to the problem. The
+assist in analysing and providing a potential solution to the problem. The
 assumptions made were catered towards the needs of the Relationship Managers,
 Outbound Customers and Inbound Customers as they are the most involved
 stakeholders in the project.

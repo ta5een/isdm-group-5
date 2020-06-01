@@ -1,4 +1,4 @@
-(inbound customer empathy map goes here)
+![inbound empathy map](/images/empathy-maps/inbound.jpg)
 
 # POV Statements
 

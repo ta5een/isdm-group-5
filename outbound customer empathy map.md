@@ -1,4 +1,4 @@
-![outbound]("/images/Empathy Map - Outbound.jpg")
+![outbound empathy map](/images/empathy-maps/outbound.jpg)
 
 # POV Statements
 
