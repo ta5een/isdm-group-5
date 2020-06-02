@@ -32,9 +32,7 @@ For the Relationship Managers, the assumptions made were to clarify the impact t
 - Relationship Mangers are unsure about the change or if it will be beneficial;
 - Concerns about sales and profiles needing to be re-evaluated.
 
-For the Inbound Customers, the assumptions made were to define the potential reasons of becoming a customer for this company and to assist in the creation and improvement of the profiling tool that will be implemented. The following are the assumptions that have been made for the Inbound
-
-Customers:
+For the Inbound Customers, the assumptions made were to define the potential reasons of becoming a customer for this company and to assist in the creation and improvement of the profiling tool that will be implemented. The following are the assumptions that have been made for the Inbound Customers:
 
 - Customers calling in will want help with planning their holiday;
 - Customers want someone with knowledge with where they want to go for their holiday.
