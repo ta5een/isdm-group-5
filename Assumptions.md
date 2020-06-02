@@ -34,3 +34,7 @@ Outbound Clients may not know about the company (Cold Leads)
 
 First calls would be to profile, then transfer to someone with specialized
 knowledge
+
+The supporting Profile tool already in existence is out of scope of the project.
+Staff and Customer Calls are actor behaviour not modelled since it is outside the scope of the system.
+
