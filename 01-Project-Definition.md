@@ -43,5 +43,3 @@ For the Outbound Customers, the assumptions made were to assist in filtering pot
 
 - Outbound Clients may not know about the company (Cold Leads);
 - First calls would be to profile, then transfer to someone with specialised knowledge.
-
-\pagebreak
