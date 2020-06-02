@@ -1,4 +1,4 @@
-![relationship manage empathy map](/images/empathy-maps/relationship-manager.jpg)
+![relationship manage empathy map](images/empathy-maps/relationship-manager.jpg)
 
 # POV Statements
 

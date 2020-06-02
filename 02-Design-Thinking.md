@@ -7,4 +7,6 @@ All three of the empathy maps (shown below) are provided with a Pain and Gain se
 
 Empathise has been the most powerful tool that we used to understand and define the problem, design thinking helped us with looping phases and gather the best information from it.
 
-![design thinking approach](/images/design-thinking-approach.png)
+![design thinking approach](images/design.png)
+
+\pagebreak
