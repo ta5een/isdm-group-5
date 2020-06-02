@@ -1,4 +1,4 @@
-# Competetive advantages and possible effects if the project fails
+# Competitive Advantages and Possible Effects If Project Fails
 
 The new CMC system aims to improve the current call flow rate through the routing and prioritising of both incoming and outgoing calls. To do this, the system will adopt an accurate and efficient profiling tool that will match customers to suitable relationship managers. In comparison to the old system, it lacked such a profiling tool, and thus didn’t provide accurate matches between customers and relationship managers.
 
